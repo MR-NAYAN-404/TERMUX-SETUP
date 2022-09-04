@@ -19,6 +19,10 @@ pkg install python -y
 
 pkg install python2 -y
 
+pkg install requests 
+
+pkg install mechanize 
+
 pkg install python-static -y
 
 pkg install python-tkinter -y
