@@ -23,8 +23,6 @@ pkg install requests
 
 pkg install mechanize 
 
-pkg install bs4
-
 pkg install rich
 
 pkg install python-static -y
@@ -62,6 +60,8 @@ pip install chardet
 pip install colorama 
 
 pip install future
+
+pip install bs4
 
 pip install idna 
 
