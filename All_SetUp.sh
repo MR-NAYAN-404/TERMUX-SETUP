@@ -63,6 +63,8 @@ pip install future
 
 pip install bs4
 
+pip install rich 
+
 pip install idna 
 
 pip install isort 
