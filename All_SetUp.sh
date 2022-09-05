@@ -25,6 +25,8 @@ pkg install mechanize
 
 pkg install bs4
 
+pkg install rich
+
 pkg install python-static -y
 
 pkg install python-tkinter -y
